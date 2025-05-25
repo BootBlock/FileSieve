@@ -5,7 +5,7 @@ Please note that the [Issues](https://github.com/BootBlock/FileSieve/issues) sec
 
 Code and scripts will be added to the [Code](https://github.com/BootBlock/FileSieve) section so that various aspects of FileSieve can be improved by the community as a whole.
 
-FileSieve can be downloaded from [here](https://filesieve.com/download).
+FileSieve can be downloaded from [here](https://filesieve.com/download), or directly from this repo (see above).
 
 ## Download
 While FileSieve hasn't actually been made open source yet, I've added the original binaries above; here's what they are.
