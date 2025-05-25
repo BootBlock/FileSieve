@@ -23,3 +23,5 @@ While FileSieve hasn't actually been made open source yet, I've added the origin
 
 ### How do the license installers work?
 They simply install a `.dll` to the application data directory for FileSieve; there's no insane Adobe-level services or whatever running. It's a single `.dll` that provides additional features to FileSieve itself. Deleting that file will then revert FileSieve back to the limited version. There's no uninstaller or anything; it's incredibly lightweight.
+
+Remember to exit FileSieve before installing a licence. Once installed, run FileSieve as normal and it should be unlocked.
